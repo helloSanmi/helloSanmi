@@ -26,9 +26,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|
-|---|---|---|---|---|
-![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <!-- ##  Blog & Writing
 
@@ -42,7 +40,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/VC-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 <Br>
@@ -55,6 +52,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/helloSanmi/helloSanmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloSanmi&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
 <a href="https://github.com/helloSanmi/helloSanmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloSanmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sanmi's GitHub Stats" />
 </a>
@@ -62,6 +60,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/helloSanmi/helloSanmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=personal_pros&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/helloSanmi/helloSanmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=Zuri&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
