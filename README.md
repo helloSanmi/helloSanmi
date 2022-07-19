@@ -26,7 +26,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+![](https://img.shields.io/badge/Web-Web%20Developmment-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <!-- ##  Blog & Writing
 
