@@ -26,7 +26,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-![](https://img.shields.io/badge/Web-Web%20Developmment-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+![](https://img.shields.io/badge/Web-Web%20Developmment-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
 
 <!-- ##  Blog & Writing
 
@@ -37,6 +37,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=virtual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VC-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
