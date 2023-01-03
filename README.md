@@ -64,7 +64,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/helloSanmi/helloSanmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=Zuri&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=helloSanmi&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <Br>
 <hr>
