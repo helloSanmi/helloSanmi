@@ -1,76 +1,85 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="220" alt="Banner"/>
 </p>
-<h1 align="center">I'm <a href="https://github.com/helloSanmi">Oluwasanmi<a> 👋</h1>
-<Br>
-<h1>About Me! 😎</h1>
 
-- 🧱 I’m great with JavaScript, React, RESTFul APIs, Cloud Technologies. 🧠💻🌐
-- 🔭 I’m currently working on some Python Frameworks like Django, Pandas.
-- 🤝 I’m open to work/help with anything Web Development!
-- ⚡  Fun fact: I play Football, Tennis and the Drums! ♟️🎾
-  
+<h1 align="center">
+  Hi, I am <a href="https://github.com/helloSanmi">Oluwasanmi</a> 👋
+</h1>
 
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<!-- Actual text -->
-<p align='center'>
+<p align="center">
+  Cloud Engineer • Web Developer • Microsoft 365 & Azure • DevOps-minded
+</p>
 
-- ✉️ idowuoluwasanmi@gmail.com
+<p align="center">
+  <a href="mailto:idowuoluwasanmi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-idowuoluwasanmi%40gmail.com-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/helloSanmi">
+    <img src="https://img.shields.io/badge/GitHub-helloSanmi-2bbc8a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<h2>About Me</h2>
+
+<ul>
+  <li>🧱 I build modern web applications with <b>JavaScript</b>, <b>React</b>, and <b>RESTful APIs</b>.</li>
+  <li>☁️ I work with <b>Cloud technologies</b> (Azure, AWS) and enjoy designing reliable infrastructure.</li>
+  <li>🔭 I am currently working with <b>Python</b> and frameworks/tools like <b>Django</b> and <b>Pandas</b>.</li>
+  <li>🤝 I am open to collaborating on web development and cloud projects.</li>
+  <li>⚡ Fun fact: I play football, tennis, and the drums.</li>
+</ul>
+
+<br/>
+<hr/>
+<br/>
+
+<h2>Skills</h2>
 
 <p>
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-  
-![](https://img.shields.io/badge/Web-Web%20Developmment-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/CT-Cloud%20Technologies-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Web%20Development-2bbc8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs%20%26%20Integration-8250df?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps%20Basics-f59e0b?style=for-the-badge" />
+</p>
 
-<!-- ##  Blog & Writing
+<h3>Technologies & Tools</h3>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
- -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2bbc8a?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2bbc8a?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-2bbc8a?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-2bbc8a?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-2bbc8a?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2bbc8a?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-2bbc8a?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-2bbc8a?style=flat&logo=gnubash&logoColor=white" />
+</p>
 
-## &#x270d; 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=virtual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VC-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+<br/>
+<hr/>
+<br/>
 
-<Br>
-<hr>
-<Br>
+<h2>GitHub Stats</h2>
 
+<p align="center">
+  <a href="https://github.com/helloSanmi">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=helloSanmi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/helloSanmi">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloSanmi&langs_count=6&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages" />
+  </a>
+</p>
 
-## &#x1f4c8; GitHub Stats
+<br/>
+<hr/>
+<br/>
 
-<a href="https://github.com/helloSanmi/helloSanmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloSanmi&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<h2>Get in Touch</h2>
 
-<a href="https://github.com/helloSanmi/helloSanmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloSanmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sanmi's GitHub Stats" />
-</a>
-
-<!-- <a href="https://github.com/helloSanmi/helloSanmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&show_repo=personal_pros&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/helloSanmi/helloSanmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&show_icons=helloSanmi&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<Br>
-<hr>
-<Br>
-
-------
-  
-<!--Thanks @ Arygam(https://github.com/Aryagm) -->
-
+<p>
+  ✉️ <a href="mailto:idowuoluwasanmi@gmail.com">idowuoluwasanmi@gmail.com</a>
+</p>
