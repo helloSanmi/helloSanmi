@@ -1,102 +1,85 @@
-<h2>What I do</h2>
-
-<p>
-  I build and support delivery pipelines and cloud platforms that make deployments repeatable, secure, and easy to operate. I work mainly around Azure, automation, containers, and CI/CD, with a strong focus on clean engineering and reliable releases.
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="220" alt="Banner"/>
 </p>
 
+<h1 align="center">
+  Hi, I am <a href="https://github.com/helloSanmi">Sanmi</a> 👋
+</h1>
+
+<p align="center">
+  Cloud Engineer • Web Developer • Microsoft 365 & Azure • DevOps-minded
+</p>
+
+<p align="center">
+  <a href="mailto:idowuoluwasanmi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-idowuoluwasanmi%40gmail.com-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/helloSanmi">
+    <img src="https://img.shields.io/badge/GitHub-helloSanmi-2bbc8a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<h2>About Me</h2>
+
 <ul>
-  <li>🚀 <b>CI/CD</b>: build and release pipelines, versioning, branching strategies, approvals, and automated deployments.</li>
-  <li>🏗️ <b>Infrastructure as Code</b>: Terraform and template-driven deployments to keep environments consistent and audit-friendly.</li>
-  <li>🐳 <b>Containers</b>: Docker builds, image management, and deploying containerised apps to Azure services.</li>
-  <li>☁️ <b>Azure platform</b>: networking fundamentals, identity integration, secrets management, and baseline security for workloads.</li>
-  <li>🔎 <b>Observability</b>: logs, metrics, and alerting to help teams detect issues early and reduce downtime.</li>
-  <li>🧰 <b>Automation</b>: scripting for repeatable operations and reducing manual work across environments.</li>
+  <li>🧱 I build modern web applications with <b>JavaScript</b>, <b>React</b>, and <b>RESTful APIs</b>.</li>
+  <li>☁️ I work with <b>Cloud technologies</b> (Azure, AWS) and enjoy designing reliable infrastructure.</li>
+  <li>🔭 I am currently working with <b>Python</b> and frameworks/tools like <b>Django</b> and <b>Pandas</b>.</li>
+  <li>🤝 I am open to collaborating on web development and cloud projects.</li>
+  <li>⚡ Fun fact: I play football, tennis, and the drums.</li>
 </ul>
 
 <br/>
 <hr/>
 <br/>
 
-<h2>Featured Projects</h2>
+<h2>Skills</h2>
 
-<p>Here are a few projects that represent my DevOps and cloud work.</p>
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-2bbc8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs%20%26%20Integration-8250df?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps%20Basics-f59e0b?style=for-the-badge" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>1) CI/CD Pipeline Project</h3>
-      <p>Automated build and deployment pipeline with environment promotion and release controls.</p>
-      <p>
-        <a href="https://github.com/helloSanmi/REPO_NAME_1">
-          <img src="https://img.shields.io/badge/View%20Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI%2FCD-2bbc8a?style=flat" />
-      </p>
-    </td>
+<h3>Technologies & Tools</h3>
 
-    <td width="50%" valign="top">
-      <h3>2) Infrastructure as Code</h3>
-      <p>Reusable Terraform modules to provision cloud resources consistently across environments.</p>
-      <p>
-        <a href="https://github.com/helloSanmi/REPO_NAME_2">
-          <img src="https://img.shields.io/badge/View%20Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/IaC-2bbc8a?style=flat" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>3) Containers and Deployment</h3>
-      <p>Containerised application build and deployment workflow, from Dockerfile to cloud runtime.</p>
-      <p>
-        <a href="https://github.com/helloSanmi/REPO_NAME_3">
-          <img src="https://img.shields.io/badge/View%20Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Containers-2bbc8a?style=flat" />
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>Focus</h3>
-      <p>
-        Reliable releases, clean automation, secure-by-default deployments, and practical monitoring.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Automation-2bbc8a?style=flat" />
-        <img src="https://img.shields.io/badge/Security-2bbc8a?style=flat" />
-        <img src="https://img.shields.io/badge/Observability-2bbc8a?style=flat" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2bbc8a?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2bbc8a?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-2bbc8a?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-2bbc8a?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-2bbc8a?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2bbc8a?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-2bbc8a?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-2bbc8a?style=flat&logo=gnubash&logoColor=white" />
+</p>
 
 <br/>
+<hr/>
+<br/>
+
+<h2>GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/helloSanmi/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=REPO_NAME_1&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a" />
+  <a href="https://github.com/helloSanmi">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=helloSanmi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/helloSanmi/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=REPO_NAME_2&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a" />
+  <a href="https://github.com/helloSanmi">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloSanmi&langs_count=6&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/helloSanmi/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloSanmi&repo=REPO_NAME_3&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a" />
-  </a>
+<br/>
+<hr/>
+<br/>
+
+<h2>Get in Touch</h2>
+
+<p>
+  ✉️ <a href="mailto:idowuoluwasanmi@gmail.com">idowuoluwasanmi@gmail.com</a>
 </p>
