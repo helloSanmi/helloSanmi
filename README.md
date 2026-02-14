@@ -10,14 +10,6 @@
   Cloud Engineer • Web Developer • Microsoft 365 & Azure • DevOps-minded
 </p>
 
-<p align="center">
-  <a href="mailto:idowuoluwasanmi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idowuoluwasanmi%40gmail.com-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/helloSanmi">
-    <img src="https://img.shields.io/badge/GitHub-helloSanmi-2bbc8a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <br/>
 
